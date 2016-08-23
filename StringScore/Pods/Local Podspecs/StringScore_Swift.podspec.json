@@ -16,7 +16,7 @@
   "requires_arc": true,
   "source_files": "Source/**/*",
   "platforms": {
-    "ios": "8.0",
+    "ios": "7.0",
     "osx": "10.9",
     "tvos": "9.0"
   }
